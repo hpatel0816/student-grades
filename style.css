@@ -1,0 +1,30 @@
+body {
+    background-color: #09457E;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+main {
+    background-color: white;
+    width: 800px;
+    margin: auto;
+    padding: 2vh 100px 8vh;
+    min-height: 90vh;
+}
+
+#go {
+    background-color: #09457E;
+    color: white;
+    padding: 2px 10px;
+    font-size: 18px;
+}
+
+#menu {
+    font-size: 18px;
+    padding: 2px 10px;
+}
+
+canvas {
+    border: 1px solid grey;
+}
